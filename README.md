@@ -1,16 +1,45 @@
-## Hi there 👋
+# ¡Hola! Soy Candido 👋 
 
-<!--
-**CandidoAg/CandidoAg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desarrollador Fullstack | Especialista en Sistemas Distribuidos y Mobile
 
-Here are some ideas to get you started:
+Actualmente enfocado en la construcción de software escalable bajo arquitecturas modernas. Mi evolución como desarrollador me ha llevado de las pruebas iniciales a dominar sistemas complejos de microservicios y aplicaciones cloud-native seguras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+| Área | Tecnologías | Herramientas |
+| :--- | :--- | :--- |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white) |
+
+---
+
+### 🏗️ Proyectos Destacados (2025-2026)
+
+#### [🕹️ RetroVault](https://github.com/CandidoAg/retrovault)
+**E-commerce de Microservicios**
+* **Core:** Arquitectura Hexagonal y DDD.
+* **Hito Técnico:** Implementación de **Sagas asíncronas con Kafka** para gestionar pagos (Stripe) y stock con compensación automática de errores.
+* **Infraestructura:** Monorepo gestionado con **pnpm** y orquestado con Docker.
+
+#### [📝 NoteStack](https://github.com/CandidoAg/app-notas)
+**Gestión de Tareas Cloud-Native**
+* **Mobile:** App multiplataforma con React Native y Expo Router.
+* **Seguridad:** Arquitectura blindada contra vulnerabilidades IDOR mediante reglas de seguridad de Firebase.
+* **UX:** Sincronización en tiempo real y modo oscuro dinámico.
+
+---
+
+### 📈 Mi Actividad Profesional
+![Estadísticas de Candido](https://github-readme-stats.vercel.app/api?username=CandidoAg&show_icons=true&theme=radical&rank_icon=github&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidoAg&layout=compact&theme=radical)
+
+---
+
+### 📫 Conectemos
+- 💼 **LinkedIn:** [Tu Perfil Aquí]
+- ⚡ **Meta 2026:** Profundizar en observabilidad distribuida (OpenTelemetry) y Kubernetes.
+
+*“El código limpio es el resultado de un aprendizaje constante.”*
