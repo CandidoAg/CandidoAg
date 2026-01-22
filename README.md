@@ -29,17 +29,14 @@ Actualmente enfocado en la construcción de software escalable bajo arquitectura
 * **Mobile:** App multiplataforma con React Native y Expo Router.
 * **Seguridad:** Arquitectura blindada contra vulnerabilidades IDOR mediante reglas de seguridad de Firebase.
 * **UX:** Sincronización en tiempo real y modo oscuro dinámico.
+  
+---
+### 📫 Contacto
+- 💬 **Discord:** [CandidoAg](https://discord.com/users/1463831450548703374) (Usuario: `candidoag`)
+- 📥 **GitHub Issues:** Si tienes alguna duda sobre mis proyectos, puedes abrir un issue en el repositorio correspondiente.
+
+> **Nota:** Debido a la configuración de privacidad de Discord, es posible que debas enviarme una solicitud de amistad primero para iniciar un chat.
 
 ---
-
-### 📈 Mi Actividad Profesional
-![Estadísticas de Candido](https://github-readme-stats.vercel.app/api?username=CandidoAg&show_icons=true&theme=radical&rank_icon=github&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidoAg&layout=compact&theme=radical)
-
----
-
-### 📫 Conectemos
-- 💼 **LinkedIn:** [Tu Perfil Aquí]
-- ⚡ **Meta 2026:** Profundizar en observabilidad distribuida (OpenTelemetry) y Kubernetes.
 
 *“El código limpio es el resultado de un aprendizaje constante.”*
