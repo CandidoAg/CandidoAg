@@ -30,7 +30,6 @@ Actualmente enfocado en la construcción de software escalable bajo arquitectura
 
 #### [🚀 Candido Stack](https://github.com/CandidoAg/candido-stack)
 **Modern Portfolio & Interactive CV**
-* **Rendimiento:** Puntuación perfecta (**100/100**) en Google Lighthouse (Performance, Accessibility, SEO).
 * **Core:** Construido con **Astro** y **TypeScript** bajo arquitectura Data-Driven.
 * **Optimización:** Pipeline de procesamiento de imágenes con **Sharp** para carga ultra-rápida.
   
