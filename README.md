@@ -35,10 +35,14 @@ Actualmente enfocado en la construcción de software escalable bajo arquitectura
   
 ---
 ### 📫 Contacto
-- 💬 **Discord:** [CandidoAg](https://discord.com/users/1463831450548703374) (Usuario: `candidoag`)
-- 📥 **GitHub Issues:** Si tienes alguna duda sobre mis proyectos, puedes abrir un issue en el repo.
+* **Portfolio:** [candido-stack](https://candido-stack.vercel.app/)
+* **LinkedIn:** [LinkedIn/Cándido Aguilar](https://www.linkedin.com/in/c%C3%A1ndido-aguilar-7164ab193/)
+* **Email:** [candido.aguilar.cano@gmail.com](mailto:candido.aguilar.cano@gmail.com)
 
-> **Nota:** Debido a la configuración de privacidad de Discord, es posible que debas enviarme una solicitud de amistad primero.
+---
+### 🛠️ Soporte y Feedback
+Si tienes dudas específicas sobre **NoteStack** o cualquier otro de mis repositorios:
+- 📥 **GitHub Issues:** Por favor, abre un issue directamente en el repositorio correspondiente. Es la mejor forma de dar seguimiento a bugs o sugerencias.
 
 ---
 
