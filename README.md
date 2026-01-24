@@ -41,7 +41,7 @@ Actualmente enfocado en la construcción de software escalable bajo arquitectura
 
 ---
 ### 🛠️ Soporte y Feedback
-Si tienes dudas específicas sobre **NoteStack** o cualquier otro de mis repositorios:
+Si tienes dudas específicas sobre cualquiera de mis repositorios:
 - 📥 **GitHub Issues:** Por favor, abre un issue directamente en el repositorio correspondiente. Es la mejor forma de dar seguimiento a bugs o sugerencias.
 
 ---
