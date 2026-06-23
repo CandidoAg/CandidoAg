@@ -45,16 +45,6 @@ Actualmente enfocado en el diseño de sistemas distribuidos, arquitecturas distr
 * **Candido Stack:** Portfolio ultra optimizado con **Astro** (arquitectura de islas) y procesamiento dinámico de imágenes con **Sharp**.
   
 ---
-
-### 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CandidoAg&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Candido's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandidoAg&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ### 📫 Contacto
 * **Portfolio:** [candido-stack](https://candido-stack.vercel.app/)
 * **LinkedIn:** [Cándido Aguilar](https://www.linkedin.com/in/c%C3%A1ndido-aguilar-7164ab193/)
