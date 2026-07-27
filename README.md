@@ -19,7 +19,7 @@ Actualmente enfocado en el diseño de sistemas distribuidos, arquitecturas de al
 
 ### 🏗️ Proyectos de Ingeniería Destacados
 
-#### [🛒 E-Commerce Microservices Platform](https://github.com/CandidoAg)
+#### [🛒 E-Commerce Microservices Platform](https://github.com/CandidoAg/go-ecommerce-microservices)
 > **Arquitectura de Microservicios Distribuidos en Go con Seguridad Zero Trust**
 * **Clean Architecture & Go:** Ecosistema completo de microservicios (`api-gateway`, `orders-api`, `users-api`, `inventory-api`, `notifications-api`) desarrollado en **Go (Gin Framework)** con bases de datos independientes en **SQLite**.
 * **Seguridad Perimetral & Zero Trust:** Implementación de Rate Limiting, Security Headers, autenticación JWT unificada y propagación segura de contextos internos para mitigar vulnerabilidades tipo IDOR y BOLA.
